@@ -1,0 +1,8 @@
+[
+  {
+    "outputFileName": "common/productResource.min.js",
+    "inputFiles": [
+      "common/productResource.js"
+    ]
+  }
+]
